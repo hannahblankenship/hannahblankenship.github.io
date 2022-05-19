@@ -34,4 +34,8 @@ p{
   margin-top: 0.2em;
   margin-bottom: 0.2em;
 }
+nav{
+  background: black;
+  color: white;
+}
 
