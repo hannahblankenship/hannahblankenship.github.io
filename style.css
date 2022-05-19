@@ -1,11 +1,11 @@
 /* Setting up background #F9B576*/
 body {
-  background-color: white;
+  background-color: PeachPuff;
 }
 
 /* Formatting Text #FF5544*/
 h1{
-  color: green;
+  color: FireBrick;
   text-decoration: overline;
   font-family: Helvetica, Arial, sans-serif;
   margin-top: 0.3em;
