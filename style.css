@@ -1,11 +1,11 @@
 /* Setting up background #F9B576*/
 body {
-  background-color: orange;
+  background-color: white;
 }
 
 /* Formatting Text #FF5544*/
 h1{
-  color: black;
+  color: green;
   text-decoration: overline;
   font-family: Helvetica, Arial, sans-serif;
   margin-top: 0.3em;
