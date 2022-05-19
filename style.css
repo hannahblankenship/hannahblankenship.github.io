@@ -3,9 +3,9 @@ body {
   background-color: orange;
 }
 
-/* Formatting Text */
+/* Formatting Text #FF5544*/
 h1{
-  color: #FF5544;
+  color: black;
   text-decoration: overline;
   font-family: Helvetica, Arial, sans-serif;
   margin-top: 0.3em;
